@@ -1,0 +1,5 @@
+This is the reference for the material used throughout this repository. I will
+add this into the code as well, but this citation applies to any of the code not
+specifically identified as my own.
+
+Bryant, Randal E., and David R. O'Hallaron. Computer Systems: A Programmer's Perspective. Third ed., Pearson, 2019. 
