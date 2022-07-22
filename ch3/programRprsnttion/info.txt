@@ -1,0 +1,6 @@
+This is a reference for the different files in this directory.
+
+mstore.c - The standard c program file.
+mstore.s - The assembly code made by the compiler (before the assembly step).
+		 - This is still readable for people, but a lot more confusing.
+mstore.o - The executable file (binary). Not readable by people.
